@@ -1,0 +1,4 @@
+This folder is for any templates regarding UIs. If you have a UI template, place it in here. 
+COPY TEMPLATES! DO NOT MOVE THEM! YOU'LL MAKE PEOPLE MAD, AND I CAN'T HAVE THAT!
+
+Thank you.
